@@ -1,0 +1,39 @@
+_repo: Rouva-Meseck-b-Kylakertomus_75445
+_version: 0.0.1
+alternative_title: Frau Meseck. Finnish
+contributor:
+  translator:
+    agent_name: Siljo, Juhani
+    birthdate: 1888
+    deathdate: 1918
+    gutenberg_agent_id: '6580'
+    url: http://www.gutenberg.org/2009/agents/6580
+    wikipedia: https://fi.wikipedia.org/wiki/Juhani_Siljo
+creator:
+  author:
+    agent_name: Halbe, Max
+    birthdate: 1865
+    deathdate: 1944
+    gutenberg_agent_id: '57999'
+    url: http://www.gutenberg.org/2009/agents/57999
+    wikipedia: https://en.wikipedia.org/wiki/Max_Halbe
+description: ''
+gutenberg_issued: '2025-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75445'
+language: fi
+pgterms:marc905: 20180130104116halbe
+pgterms:marc906: '1908'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: $aHämeenlinna :$bArvi A. Karisto, $c1908.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German fiction -- Translations into Finnish'
+- !lcc 'PT'
+- GITenberg
+title: 'Rouva Meseck : $b Kyläkertomus'
+url: http://www.gutenberg.org/ebooks/75445
